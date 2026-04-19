@@ -1,4 +1,4 @@
-# 漢字クイズ · JLPT Study App
+# 漢字クイズ · Danon (a JLPT Study App)
 
 JLPT N5–N3 study app — kanji, kana, grammar, Pokémon quiz. Single-file PWA, installable on iOS and Android.
 
